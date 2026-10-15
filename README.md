@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Portfolio: https://sohangrg.me/
+My Portfolio: https://sohangurung0.com.np/
 
 🎮 About Me<br>I'm a CS student at Informatics College Pokhara, excited to build interactive experiences through game development while staying open to web development, data analytics, and other IT roles.<br>My long‑term goal? Become a game developer. But right now, I believe diverse IT knowledge makes me a stronger intern and contributor.<br><br>🛠️ Currently learning & building:<br>• GoDot, Python, and game design fundamentals<br>• Web dev (Java , Bootstrap, React)<br>• Data analytics with Python & Excel<br>I love solving bugs, troubleshooting errors, and creating things that actually work whether it's a small game mechanic or a clean data table.<br><br>🎯 I'm actively seeking an internship in:<br>Web Dev | Data Analytics | QA | Game Development | any computer related field<br>I want to work on real-world projects, grow in a team, and learn fast. If you're willing to mentor a driven, eager student let's connect.
 
